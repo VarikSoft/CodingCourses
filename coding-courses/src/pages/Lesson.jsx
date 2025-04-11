@@ -37,7 +37,7 @@ export default function Lesson() {
       method: "POST",
       headers: {
         "content-type": "application/json",
-        "X-RapidAPI-Key": "50d237e559msh30dda0a387172c1p16deb2jsn31c35015daf0",
+        "X-RapidAPI-Key": "50d237e559msh30dda0a387172c1p16deb2jsn31c35015daf0", // This key is provided for demo use only and may expire at any time.
         "X-RapidAPI-Host": "judge0-ce.p.rapidapi.com"
       },
       body: JSON.stringify({ language_id: 71, source_code })
