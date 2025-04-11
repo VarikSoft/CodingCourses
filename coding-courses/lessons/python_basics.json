@@ -1,0 +1,38 @@
+{
+  "title": "Python Basics",
+  "steps": [
+    {
+      "title": "Hello, world!",
+      "description": "Write a program that prints 'Hello, world!' to the console.",
+      "starterCode": "print('Hello, world!')",
+      "explanation": "Use the built-in print() function to display text.",
+      "tests": [
+        {
+          "expectedOutput": "Hello, world!"
+        }
+      ]
+    },
+    {
+      "title": "Variables",
+      "description": "Create a variable called 'name' and assign it a value. Then print it.",
+      "starterCode": "name = 'Python'\nprint(name)",
+      "explanation": "Variables store data. Assign a value using = and print it.",
+      "tests": [
+        {
+          "expectedOutput": "Python"
+        }
+      ]
+    },
+    {
+      "title": "Numbers and Math",
+      "description": "Add two numbers and print the result.",
+      "starterCode": "result = 2 + 3\nprint(result)",
+      "explanation": "You can use arithmetic operations like +, -, *, / to perform math.",
+      "tests": [
+        {
+          "expectedOutput": "5"
+        }
+      ]
+    }
+  ]
+}

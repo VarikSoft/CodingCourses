@@ -1,0 +1,38 @@
+{
+  "title": "Calculator Project",
+  "steps": [
+    {
+      "title": "Add Function",
+      "description": "Write a function that takes two arguments and returns their sum.",
+      "starterCode": "def add(a, b):\n    return a + b\n\nprint(add(2, 3))",
+      "explanation": "Define a function using def and return the result.",
+      "tests": [
+        {
+          "expectedOutput": "5"
+        }
+      ]
+    },
+    {
+      "title": "Subtract Function",
+      "description": "Create a function that subtracts the second number from the first.",
+      "starterCode": "def subtract(a, b):\n    return a - b\n\nprint(subtract(5, 3))",
+      "explanation": "Functions can perform any operation. Use return to return the result.",
+      "tests": [
+        {
+          "expectedOutput": "2"
+        }
+      ]
+    },
+    {
+      "title": "Combine with Input",
+      "description": "Use input() to read two numbers from the user and add them.",
+      "starterCode": "a = int(input())\nb = int(input())\nprint(a + b)",
+      "explanation": "Use input() to read user input, convert it to int with int().",
+      "tests": [
+        {
+          "expectedOutput": "5"
+        }
+      ]
+    }
+  ]
+}

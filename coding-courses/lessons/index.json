@@ -1,0 +1,12 @@
+[
+    {
+      "id": "python_basics",
+      "title": "Python Basics",
+      "description": "Learn how to use print, variables, and simple math in Python."
+    },
+    {
+      "id": "calculator_project",
+      "title": "Calculator Project",
+      "description": "Build a simple calculator with functions and user input."
+    }
+]
